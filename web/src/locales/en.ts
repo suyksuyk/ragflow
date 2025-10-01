@@ -72,10 +72,10 @@ export default {
       nicknamePlaceholder: 'Please input nickname',
       register: 'Create an account',
       continue: 'Continue',
-      title: 'Start building your smart assistants.',
+      title: 'AI LLM ,AI Knowledge base.',
       description:
-        'Sign up for free to explore top RAG technology. Create knowledge bases and AIs to empower your business.',
-      review: 'from 500+ reviews',
+        'Your stock speculation super brain',
+      review: 'from 50000+ reviews',
     },
     header: {
       knowledgeBase: 'Dataset',
