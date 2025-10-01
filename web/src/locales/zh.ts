@@ -64,10 +64,10 @@ export default {
       nicknamePlaceholder: '请输入名称',
       register: '创建账户',
       continue: '继续',
-      title: '开始构建您的智能助手',
+      title: 'AI大模型 AI知识库左右互搏',
       description:
-        '免费注册以探索顶级 RAG 技术。 创建知识库和人工智能来增强您的业务',
-      review: '来自 500 多条评论',
+        '您的专业投机超级大脑',
+      review: '来自 50000 多条评论',
     },
     header: {
       knowledgeBase: '知识库',
